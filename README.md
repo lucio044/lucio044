@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/lucio044/lucio044/blob/main/banner.png" alt="Lucio Fernandez Chavez Banner">
+  https://raw.githubusercontent.com/lucio044/lucio044/main/banner.png.jpeg
 </p>
+
 
 # 👋 Hola, soy Lucio Fernandez Chavez
 
