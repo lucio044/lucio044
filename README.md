@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lucio044/lucio044/main/banner.png.jpeg" alt="Lucio Fernandez Chavez Banner">
+  <img src="https://raw.githubusercontent.com/lucio044/lucio044/main/banner3.png" alt="Lucio Fernandez Chavez Banner">
 </p>
 
 # 👋 Hola, soy Lucio Fernandez Chavez
