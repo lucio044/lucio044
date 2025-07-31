@@ -1,18 +1,20 @@
-## Hi there 👋
-
 # 👋 Hola, soy Lucio Fernandez Chavez
 
-Proveedor externo con experiencia en [área de especialización]. Me enfoco en [tipo de proyectos] y colaboro con equipos para lograr soluciones efectivas.
+Analista de datos con habilidades en PYTHON y SQL, así como en la creación de Dashboard en TABLEAU y POWER BI, Orientado a resultados y aprovechamiento de análisis para impulsar y resolver las necesidades de negocio, en búsqueda de desempeñar habilidades profesionales en el procesamiento de datos, análisis de información y establecimiento de métricas.
 
-## 🚀 Proyectos destacados
-- [Nombre del proyecto](enlace) – Breve descripción.
-- Otro proyecto – Breve descripción.
+## 🚀 Proyectos destacados:
+
+- Análisis Estadístico y Pruebas de Hipótesis – Megaline (Telecomunicaciones)
+- Obtención y Tratamiento de Datos con SQL y Python – Zuber (Transporte Compartido)
+- Análisis de Tendencias y Visualización en Tableau – Sterling & Draper (Publicidad Digital)
 
 ## 🛠️ Tecnologías
 - Git & GitHub
-- [Otras herramientas que usas]
+- [SQL -PYTHON -POWER BI-EXCEL]
 
-📫 Contacto: [tu correo] | [LinkedIn o portafolio]
+📫 Contacto: [lucio.fernandez.lfc@gmail.com] | [www.linkedin.com/in/lucio-fernandez-chavez
+
+]
 
 - ⚡ Fun fact: ...
 -->
