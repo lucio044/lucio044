@@ -4,9 +4,9 @@ Analista de datos con habilidades en PYTHON y SQL, así como en la creación de 
 
 ## 🚀 Proyectos destacados:
 
-(https://github.com/lucio044/ANALISIS-ESTADISCO.git
-https://github.com/lucio044/PROYECTO-DE-ESTRACCION-DE-DATOS-CON-SQL.git
-https://github.com/lucio044/PROYECTO-TENDENCIAS.git)
+- ANAISIS - https://github.com/lucio044/ANALISIS-ESTADISCO.git
+- SQL - https://github.com/lucio044/PROYECTO-DE-ESTRACCION-DE-DATOS-CON-SQL.git
+- PORYECCION - https://github.com/lucio044/PROYECTO-TENDENCIAS.git)
 
 ## 🛠️ Tecnologías
 - Git & GitHub
