@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**lucio044/lucio044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hola, soy Lucio Fernandez Chavez
 
-Here are some ideas to get you started:
+Proveedor externo con experiencia en [área de especialización]. Me enfoco en [tipo de proyectos] y colaboro con equipos para lograr soluciones efectivas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+## 🚀 Proyectos destacados
+- [Nombre del proyecto](enlace) – Breve descripción.
+- Otro proyecto – Breve descripción.
+
+## 🛠️ Tecnologías
+- Git & GitHub
+- [Otras herramientas que usas]
+
+📫 Contacto: [tu correo] | [LinkedIn o portafolio]
+
 - ⚡ Fun fact: ...
 -->
