@@ -1,3 +1,8 @@
+<p align="center">
+  https://github.com/lucio044/lucio044/blob/main/banner.png
+</p>
+
+
 # 👋 Hola, soy Lucio Fernandez Chavez
 
 Analista de datos con habilidades en **Python** y **SQL**, así como en la creación de dashboards en **Tableau** y **Power BI**.  
