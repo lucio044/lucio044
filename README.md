@@ -4,9 +4,7 @@
 
 # 👋 Hola, soy Lucio Fernandez Chavez
 
-Analista de datos con habilidades en PYTHON y SQL, así como en la creación de Dashboard en TABLEAU y POWER BI.  
-Orientado a resultados y aprovechamiento de análisis para impulsar y resolver las necesidades de negocio,  
-en búsqueda de desempeñar habilidades profesionales en el procesamiento de datos, análisis de información y establecimiento de métricas.
+Analista de datos con habilidades en PYTHON y SQL, así como en la creación de Dashboard en TABLEAU y POWER BI, Orientado a resultados y aprovechamiento de análisis para impulsar y resolver las necesidades de negocio, en búsqueda de desempeñar habilidades profesionales en el procesamiento de datos, análisis de información y establecimiento de métricas.
 
 ---
 
@@ -40,7 +38,7 @@ en búsqueda de desempeñar habilidades profesionales en el procesamiento de dat
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?ucio044&show_icons=true&theme=radical
+  https://github-readme-stats.vercel.app/api?username=lucio044&show_icons=true&theme=radical
 </p>
 
 <p align="center">
@@ -48,5 +46,5 @@ en búsqueda de desempeñar habilidades profesionales en el procesamiento de dat
 </p>
 
 <p align="center">
-  <img src="https://dme-streak-stats.herokuapp.com/?user=lucio044&theme=radical
+  https://github-readme-streak-stats.herokuapp.com/?user=lucio044&theme=radical
 </p>
