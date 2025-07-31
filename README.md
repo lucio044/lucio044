@@ -27,7 +27,6 @@ Analista de datos con habilidades en PYTHON y SQL, así como en la creación de 
 - Git & GitHub
 - Jupyter Notebooks
 
-- ![Lucio's GitHub stats```
 
 ---
 
@@ -36,3 +35,6 @@ Analista de datos con habilidades en PYTHON y SQL, así como en la creación de 
 - 📧 lucio.fernandez.lfc@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/lucio-fernandez-chavez)
 
+
+
+- ![Lucio's GitHub stats```
