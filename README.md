@@ -4,9 +4,9 @@ Analista de datos con habilidades en PYTHON y SQL, así como en la creación de 
 
 ## 🚀 Proyectos destacados:
 
-- Análisis Estadístico y Pruebas de Hipótesis – Megaline (Telecomunicaciones)
-- Obtención y Tratamiento de Datos con SQL y Python – Zuber (Transporte Compartido)
-- Análisis de Tendencias y Visualización en Tableau – Sterling & Draper (Publicidad Digital)
+(https://github.com/lucio044/ANALISIS-ESTADISCO.git
+https://github.com/lucio044/PROYECTO-DE-ESTRACCION-DE-DATOS-CON-SQL.git
+https://github.com/lucio044/PROYECTO-TENDENCIAS.git)
 
 ## 🛠️ Tecnologías
 - Git & GitHub
