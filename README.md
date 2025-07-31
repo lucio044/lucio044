@@ -27,6 +27,8 @@ Analista de datos con habilidades en PYTHON y SQL, así como en la creación de 
 - Git & GitHub
 - Jupyter Notebooks
 
+- ![Lucio's GitHub stats```
+
 ---
 
 ## 📫 Contacto
