@@ -42,7 +42,7 @@ Analista de datos con habilidades en PYTHON y SQL, así como en la creación de 
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api?username=lucio044&show_icons=true&theme=radical
+  <img src="https://github-readme-stats.vercel.app/api?username=lucio044&show_iconse=radical
 </p>
 
 <p align="center">
@@ -52,5 +52,6 @@ Analista de datos con habilidades en PYTHON y SQL, así como en la creación de 
 <p align="center">
   https://github-readme-streak-stats.herokuapp.com/?user=lucio044&theme=radical
 </p>
+
 
 
