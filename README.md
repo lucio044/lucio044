@@ -1,6 +1,6 @@
-
+<p align="center">
 <img width="517" height="265" alt="image" src="https://github.com/user-attachments/assets/dec9f934-5743-4aea-8f65-a89eca102422" />
-
+</p>
 
 # 👋 Hola, soy Lucio 
 
