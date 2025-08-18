@@ -40,4 +40,5 @@ Hoy, como aspirante a Data Analyst, combino herramientas como Python, SQL y Powe
 
 - 📧 lucio.fernandez.lfc@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/lucio-fernandez-chavez)
+- 🌐 https://github.com/lucio044
 
