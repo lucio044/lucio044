@@ -17,6 +17,11 @@ Analista de datos con habilidades en PYTHON y SQL, así como en la creación de 
 
 ---
 
+Mi conexión con la tecnología comenzó en secundaria, cuando gané un concurso de desarrollo web organizado por la municipalidad de mi distrito. Aquella experiencia despertó en mí una pasión por crear, estructurar y resolver, que sigue guiando mi camino. Aunque el trayecto no fue inmediato, esa chispa me llevó a formarme en TI y descubrir el análisis de datos como el punto de encuentro entre lógica, diseño y estrategia.
+
+Hoy, como aspirante a Data Analyst, combino herramientas como Python, SQL y Power BI para transformar datos en decisiones. Me especializo en visualizar información con claridad, optimizar procesos técnicos y generar impacto en equipos de negocio. Cada proyecto es una oportunidad para aprender, aportar y crecer. Esta historia no solo explica de dónde vengo, sino por qué sigo aquí: para convertir la evidencia en acción.
+
+
 ## 🛠️ Tecnologías
 
 - Python  
@@ -27,6 +32,7 @@ Analista de datos con habilidades en PYTHON y SQL, así como en la creación de 
 - Git & GitHub
 - Jupyter Notebooks
 
+“Hoy, cada dato que analizo es una oportunidad para transformar decisiones en resultados. Y esta historia apenas comienza.”
 
 ---
 
