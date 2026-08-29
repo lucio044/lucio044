@@ -10,7 +10,7 @@ Trabajo con **Python**, **scikit-learn** y **SQL**: preparo los datos, construyo
 
 Sumo además más de diez años de experiencia operativa liderando equipos y gestionando indicadores, lo que me permite traducir un resultado estadístico en una decisión de negocio concreta.
 
-🌐 **Portafolio completo → [mi-portafolio-gray-pi.vercel.app](https://mi-portafolio-gray-pi.vercel.app)**
+🌐 **Portafolio completo → [luciofernandez.vercel.app](https://luciofernandez.vercel.app)**
 
 ---
 
@@ -57,6 +57,6 @@ Empecé describiendo lo que ya había pasado. El paso a la ciencia de datos fue 
 ## 📫 Contacto
 
 - 📧 lucio.fernandez.lfc@gmail.com
-- 🌐 [Portafolio](https://mi-portafolio-gray-pi.vercel.app)
+- 🌐 [Portafolio](https://luciofernandez.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucio-fernandez)
 - 📍 Lima, Perú — disponible en remoto, híbrido o presencial
