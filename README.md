@@ -17,12 +17,12 @@ Sumo además más de diez años de experiencia operativa liderando equipos y ges
 ## 🤖 Machine Learning
 
 **[TechMind — Biblioteca inteligente de conocimiento técnico](https://github.com/lucio044/TECHMIND-BIBLIOTECA-INTELIGENTE)**
-Modelo de NLP que clasifica contenido técnico y devuelve la categoría con su nivel de confianza, palabras clave, categorías candidatas y contenido relacionado del histórico. Entrenado con scikit-learn y expuesto como API pública con FastAPI.
+Modelo de NLP que clasifica contenido técnico y devuelve la categoría con su nivel de confianza, palabras clave, categorías candidatas y contenido relacionado del histórico. TF-IDF con n-gramas más regresión logística balanceada: **F1 macro de 0,75 sobre 8 categorías** en un test estratificado de 7 652 textos.
 *Hackathon ONE · Alura Latam + Oracle · Equipo 46* — **[probar la demo en vivo](https://lucio044.github.io/TECHMIND-BIBLIOTECA-INTELIGENTE/)**
 
 **[Telecom X — Predicción de fuga de clientes](https://github.com/lucio044/ANALISIS-DE-MACHINE-LEARNING---TELECOM-X)**
-Modelo de clasificación para anticipar cancelaciones. Comparé regresión logística contra Random Forest, equilibré las clases con SMOTE y creé la variable derivada `Cuentas_Diarias`, que resultó el tercer predictor más influyente.
-**Detecta el 60% de las cancelaciones antes de que ocurran**, y sitúa el riesgo crítico en clientes de fibra óptica con contrato mensual durante sus primeros 20 meses.
+Modelo de clasificación para anticipar cancelaciones sobre 7 032 clientes con solo 26,6% de fuga. Comparé regresión logística contra Random Forest y equilibré las clases con SMOTE: la regresión logística ganó en las cuatro métricas. La variable derivada `Cuentas_Diarias` que creé quedó como tercer predictor más influyente.
+Con un **recall de 0,60 detecta 6 de cada 10 clientes que van a irse**, y sitúa el riesgo crítico en clientes de fibra óptica con contrato mensual durante sus primeros 20 meses.
 
 ## 📊 Análisis de datos
 
